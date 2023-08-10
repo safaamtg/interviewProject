@@ -1,0 +1,1 @@
+C:\Maui.CustomerApp\Maui.CustomerApp\Maui.CustomerApp.csproj;x64
